@@ -1,2 +1,2 @@
 # time-series-work
-tome series model
+time series model
